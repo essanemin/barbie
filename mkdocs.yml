@@ -1,0 +1,6 @@
+site_name: Sites dos Clássicos
+site_author: Dayane Mesquita
+
+theme:
+    name: material
+    language: pt
